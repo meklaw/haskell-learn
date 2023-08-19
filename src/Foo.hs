@@ -1,4 +1,0 @@
-module Foo where
-
-sumSquares x y = x^2 + y^2
-
