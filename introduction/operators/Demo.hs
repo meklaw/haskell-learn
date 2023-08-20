@@ -34,7 +34,7 @@ module Demo where
 
 -- из стандартной библиотеки
 -- infixr 8 ^, `logBase`
--- infixl 7, /, `div`, `mod`
+-- infixl 7 *, /, `div`, `mod`
 -- infixl 6 +, -
 -- infix 4 ==, /=, >, >=, <, <=
 
