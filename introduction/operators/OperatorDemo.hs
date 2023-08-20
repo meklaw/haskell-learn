@@ -1,4 +1,4 @@
-module Demo where
+module OperatorDemo where
 
 -- выхов функции
 -- max 6 10
